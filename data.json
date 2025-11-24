@@ -1,0 +1,392 @@
+[
+  {
+    "nome": "O que é Backend",
+    "descricao": "Backend é a parte do sistema responsável pela regra de negócio, processamento dos dados e comunicação com o banco de dados e servidores.",
+    "ano": "Década de 1950",
+    "link": "https://developer.mozilla.org/pt-BR/docs/Learn/Server-side"
+  },
+  {
+    "nome": "API",
+    "descricao": "API é uma interface que permite a comunicação entre sistemas. No backend, APIs são usadas para fornecer dados ao frontend ou outros serviços.",
+    "ano": " Criado em 1968",
+    "link": "https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interfaces"
+  },
+  {
+    "nome": "REST",
+    "descricao": "REST é um estilo arquitetural que facilita a comunicação entre cliente e servidor usando métodos HTTP.",
+    "ano": "Criado em 2000",
+    "link": "https://restfulapi.net/"
+  },
+  {
+    "nome": "HTTP",
+    "descricao": "Protocolo usado para comunicação entre cliente e servidor na web. Possui métodos como GET, POST, PUT e DELETE.",
+    "ano": " Criado em 1991",
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/HTTP"
+  },
+  {
+    "nome": "JSON",
+    "descricao": "Formato leve de troca de dados amplamente usado no backend por sua simplicidade e compatibilidade com diversas linguagens.",
+    "ano": "Criado em 2001",
+    "link": "https://www.json.org/json-pt.html"
+  },
+  {
+    "nome": "Autenticação",
+    "descricao": "Processo de verificar a identidade de um usuário usando credenciais como email/senha, tokens ou biometria.",
+    "ano": "Década de 1960",
+    "link": "https://auth0.com/intro-to-authentication"
+  },
+  {
+    "nome": "Autorização",
+    "descricao": "Define o que um usuário autenticado pode acessar dentro de um sistema.",
+    "ano": "Década de 1960",
+    "link": "https://auth0.com/docs/get-started/identity-fundamentals/authentication-and-authorization"
+  },
+  {
+    "nome": "Banco de Dados",
+    "descricao": "Sistemas usados para armazenar e gerenciar dados. Podem ser SQL (relacionais) ou NoSQL (não relacionais).",
+    "ano": "Criado em 1960",
+    "link": "https://www.mysql.com/"
+  },
+  {
+    "nome": "SQL",
+    "descricao": "Linguagem usada para manipular bancos de dados relacionais como MySQL, PostgreSQL e SQL Server.",
+    "ano": "Criado em 1974",
+    "link": "https://www.w3schools.com/sql/"
+  },
+  {
+    "nome": "NoSQL",
+    "descricao": "Bancos de dados não relacionais, como MongoDB, utilizados para armazenar dados flexíveis e não estruturados.",
+    "ano": "Criado em 1998",
+    "link": "https://www.mongodb.com/nosql-explained"
+  },
+  {
+    "nome": "Node.js",
+    "descricao": "Ambiente de execução JavaScript no lado do servidor que permite criar APIs rápidas e escaláveis.",
+    "ano": "Criado em 2009",
+    "link": "https://nodejs.org/pt-br"
+  },
+  {
+    "nome": "Express",
+    "descricao": "Framework minimalista para Node.js usado para criar servidores e APIs REST.",
+    "ano": "Criado em 2010",
+    "link": "https://expressjs.com/pt-br/"
+  },
+  {
+    "nome": "Arquitetura MVC",
+    "descricao": "Divide o sistema em Model, View e Controller, facilitando a organização e manutenção.",
+    "ano": "Criado em 1979",
+    "link": "https://developer.mozilla.org/pt-BR/docs/Glossary/MVC"
+  },
+  {
+    "nome": "JWT",
+    "descricao": "Token usado para autenticação segura entre cliente e servidor.",
+    "ano": "Criado em 2010",
+    "link": "https://jwt.io/"
+  },
+  {
+    "nome": "Microsserviços",
+    "descricao": "Arquitetura onde a aplicação é dividida em pequenos serviços independentes que comunicam entre si.",
+    "ano": "Criado em 2011",
+    "link": "https://microservices.io/"
+  },
+  {
+    "nome": "React",
+    "descricao": "Uma biblioteca JavaScript declarativa, eficiente e flexível para construir interfaces de usuário, mantida pelo Facebook.",
+    "ano": "Criado em 2013",
+    "link": "https://reactjs.org/",
+    "tags": [
+      "biblioteca",
+      "frontend",
+      "UI",
+      "desenvolvimento web"
+    ]
+  },
+  {
+    "nome": "Go (Golang)",
+    "descricao": "Linguagem de programação compilada, tipada estaticamente, projetada para ser simples, eficiente e com alta concorrência.",
+    "ano": "Criado em  2009",
+    "link": "https://go.dev/",
+    "tags": [
+      "linguagem de programação",
+      "backend",
+      "sistemas",
+      "concorrência"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Plataforma que facilita a criação, implantação e execução de aplicações usando contêineres.",
+    "ano": "Criado em 2013",
+    "link": "https://www.docker.com/",
+    "tags": [
+      "containerização",
+      "devops",
+      "virtualização",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Kubernetes",
+    "descricao": "Sistema open-source para automatizar a implantação, escalonamento e gerenciamento de aplicações em contêineres.",
+    "ano": "Criado em 2014",
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "orquestração",
+      "devops",
+      "cloud computing",
+      "automação"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Um poderoso sistema de banco de dados objeto-relacional open-source, conhecido por sua robustez e conformidade com padrões.",
+    "ano": "Criado em 1996",
+    "link": "https://www.postgresql.org/",
+    "tags": [
+      "banco de dados relacional",
+      "ORDBMS",
+      "open source",
+      "persistencia"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Um framework progressivo para a construção de interfaces de usuário, conhecido por sua facilidade de aprendizado e flexibilidade.",
+    "ano": "Criado em 2014",
+    "link": "https://vuejs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "UI",
+      "desenvolvimento web"
+    ]
+  },
+  {
+    "nome": "AWS (Amazon Web Services)",
+    "descricao": "A plataforma de computação em nuvem mais abrangente e amplamente adotada do mundo.",
+    "ano": "Criado em 2006",
+    "link": "https://aws.amazon.com/",
+    "tags": [
+      "cloud computing",
+      "infraestrutura",
+      "serviços web",
+      "provedor cloud"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Ferramenta de Infraestrutura como Código (IaC) que permite provisionar e gerenciar recursos de infraestrutura de forma declarativa.",
+    "ano": "Criado em 2014",
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "IaC",
+      "devops",
+      "provisionamento",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Linguagem de programação focada em segurança de memória, performance e concorrência, ideal para sistemas de baixo nível.",
+    "ano": "Criado em 2010",
+    "link": "https://www.rust-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "sistemas",
+      "performance",
+      "compilada"
+    ]
+  },
+  {
+    "nome": "TypeScript",
+    "descricao": "Um superset tipado de JavaScript que compila para JavaScript simples. Melhora a manutenibilidade de grandes bases de código.",
+    "ano": "Criado em 2012",
+    "link": "https://www.typescriptlang.org/",
+    "tags": [
+      "linguagem",
+      "tipagem estática",
+      "frontend",
+      "backend"
+    ]
+  },
+  {
+    "nome": "React Native",
+    "descricao": "Framework que permite construir aplicativos móveis nativos usando JavaScript e React, para iOS e Android.",
+    "ano": "Criado em 2015",
+    "link": "https://reactnative.dev/",
+    "tags": [
+      "mobile",
+      "cross-platform",
+      "framework",
+      "desenvolvimento de apps"
+    ]
+  },
+  {
+    "nome": "Apache Kafka",
+    "descricao": "Plataforma distribuída de streaming de eventos, usada para construir pipelines de dados em tempo real e aplicativos de streaming.",
+    "ano": "Criado em 2011",
+    "link": "https://kafka.apache.org/",
+    "tags": [
+      "streaming",
+      "mensageria",
+      "tempo real",
+      "infraestrutura"
+    ]
+  },
+  {
+    "nome": "Jenkins",
+    "descricao": "Servidor de automação open-source amplamente utilizado para construir, testar e implantar software de forma contínua (CI/CD).",
+    "ano": "Criado em 2011",
+    "link": "https://www.jenkins.io/",
+    "tags": [
+      "CI/CD",
+      "automação",
+      "devops",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Tailwind CSS",
+    "descricao": "Um framework CSS utility-first que fornece classes de baixo nível para construir designs customizados rapidamente.",
+    "ano": "Criado em 2017",
+    "link": "https://tailwindcss.com/",
+    "tags": [
+      "framework CSS",
+      "frontend",
+      "utilitário primeiro",
+      "estilização"
+    ]
+  },
+  {
+    "nome": "AWS Lambda",
+    "descricao": "Serviço de computação serverless que permite executar código sem provisionar ou gerenciar servidores (Function as a Service - FaaS).",
+    "ano": "Criado em 2014",
+    "link": "https://aws.amazon.com/lambda/",
+    "tags": [
+      "serverless",
+      "FaaS",
+      "cloud computing",
+      "backend"
+    ]
+  },
+  {
+    "nome": "Redis",
+    "descricao": "Um armazenamento de estrutura de dados em memória, open-source, usado como cache, banco de dados e message broker.",
+    "ano": "Criado em 2009",
+    "link": "https://redis.io/",
+    "tags": [
+      "cache",
+      "chave-valor",
+      "base de dados",
+      "memória"
+    ]
+  },
+  {
+    "nome": "Jest",
+    "descricao": "Um framework de teste JavaScript delicioso e completo, focado em simplicidade, suportando testes unitários e de integração.",
+    "ano": "Criado em 2014",
+    "link": "https://jestjs.io/",
+    "tags": [
+      "framework de teste",
+      "javascript",
+      "frontend",
+      "backend"
+    ]
+  },
+  {
+    "nome": "C#",
+    "descricao": "Linguagem de programação moderna, orientada a objetos, desenvolvida pela Microsoft, rodando principalmente no ecossistema .NET.",
+    "ano": "Criando em 2000",
+    "link": "https://docs.microsoft.com/pt-br/dotnet/csharp/",
+    "tags": [
+      "linguagem de programação",
+      ".NET",
+      "backend",
+      "orientada a objetos"
+    ]
+  },
+  {
+    "nome": "Scrum",
+    "descricao": "Framework de metodologia ágil para o gerenciamento de projetos complexos, focado em entregas iterativas e incrementais.",
+    "ano": "Criado em 1990",
+    "link": "https://www.scrum.org/",
+    "tags": [
+      "metodologia ágil",
+      "gestão de projetos",
+      "desenvolvimento de software",
+      "framework"
+    ]
+  },
+  {
+    "nome": "Webpack",
+    "descricao": "Um empacotador de módulos estáticos para aplicações JavaScript modernas. É o coração do front-end moderno.",
+    "ano": "Criado em 2012",
+    "link": "https://webpack.js.org/",
+    "tags": [
+      "module bundler",
+      "tooling",
+      "frontend",
+      "otimização"
+    ]
+  },
+  {
+    "nome": "Microsoft Azure",
+    "descricao": "Plataforma de cloud computing da Microsoft, oferecendo serviços como IaaS, PaaS e SaaS para desenvolvimento e hospedagem de aplicações.",
+    "ano": "Criado em 2010",
+    "link": "https://azure.microsoft.com/",
+    "tags": [
+      "cloud computing",
+      "PaaS",
+      "infraestrutura",
+      "provedor cloud"
+    ]
+  },
+  {
+    "nome": "Neo4j",
+    "descricao": "O principal banco de dados de grafos, otimizado para armazenar, gerenciar e analisar dados altamente interconectados.",
+    "ano": "Criado em 2007",
+    "link": "https://neo4j.com/",
+    "tags": [
+      "banco de dados de grafos",
+      "persistência",
+      "relacionamentos complexos",
+      "grafos"
+    ]
+  },
+  {
+    "nome": "Flutter",
+    "descricao": "Kit de desenvolvimento de UI do Google para a criação de aplicativos compilados nativamente para mobile, web e desktop a partir de uma única base de código.",
+    "ano": "Criado em 2017",
+    "link": "https://flutter.dev/",
+    "tags": [
+      "mobile",
+      "cross-platform",
+      "framework",
+      "UI toolkit"
+    ]
+  },
+  {
+    "nome": "Git",
+    "descricao": "Sistema de controle de versão distribuído, open-source, projetado para lidar com tudo, desde projetos pequenos a muito grandes, com velocidade e eficiência.",
+    "ano": "Criado em 2005",
+    "link": "https://git-scm.com/",
+    "tags": [
+      "controle de versão",
+      "SCM",
+      "ferramenta",
+      "desenvolvimento"
+    ]
+  },
+  {
+    "nome": "Elasticsearch",
+    "descricao": "Um motor de busca e análise distribuído, RESTful, usado para busca de texto completo, análise de log e inteligência operacional.",
+    "ano": "Criado em 2010",
+    "link": "https://www.elastic.co/elasticsearch/",
+    "tags": [
+      "motor de busca",
+      "base de dados",
+      "análise de dados",
+      "distribuído"
+    ]
+  }
+]
